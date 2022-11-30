@@ -1,0 +1,14 @@
+set-env.sh
+env-file
+venv/
+__pycache__
+errbot.log
+.vscode/
+unset-env.sh
+docker-compose copy.yaml
+.DS_Store
+README copy.md
+.idea/
+docker-compose david.yaml
+.pytest_cache
+data/*.db*

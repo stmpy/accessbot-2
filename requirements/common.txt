@@ -1,0 +1,13 @@
+# Contains requirements common to all environments
+strongdm
+datetime
+errbot
+slackclient
+slack-bolt
+shortuuid
+fuzzywuzzy
+python-levenshtein-wheels
+memoization
+prometheus_client
+readabledelta
+email_validator
